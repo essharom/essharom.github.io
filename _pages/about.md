@@ -16,12 +16,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in Biomedical Artificial Intelligence at the [University of Edinburgh](https://www.ed.ac.uk/), working with [Giovanni Stracquadanio](https://www.stracquadaniolab.org/) and [Ianthe Simpson](https://homepages.inf.ed.ac.uk/s1045108/) on graph neural networks for biomedical informatics. I also serve as Head of Research at [Garandor](https://garandor.com/), where I lead R&D on invisible watermarking algorithms for digital content authentication.
+I am a PhD candidate in Biomedical Artificial Intelligence at the [University of Edinburgh](https://www.ed.ac.uk/), working with [Giovanni Stracquadanio](https://www.stracquadaniolab.org/) and [Ian Simpson](https://edwebprofiles.ed.ac.uk/profile/ian-simpson) on graph neural networks for biomedical informatics. I also serve as Head of Research at [Garandor](https://garandor.com/), where I lead R&D on invisible watermarking algorithms for digital content authentication.
 
 Before Edinburgh, I spent five years at [Turbine.AI](https://turbine.ai/) in Budapest, where I progressed from Computational Biologist to Data Team Lead. There I managed a team of data scientists and bioinformaticians, working on AI-driven drug discovery in collaboration with pharmaceutical partners including Bayer.
 
 I hold an MScR (with Distinction) from the University of Edinburgh and a joint MSc in Info-Bionics Engineering from Pázmány Péter Catholic University and Semmelweis University, with an Erasmus exchange at LMU/TUM Munich in Bioinformatics.
 
-My research interests span **graph neural networks**, **computational biology**, **systems biology**, and **drug discovery**. I have published in venues including *npj Systems Biology and Applications*, *The Journal of Physical Chemistry B*, and *ICML*.
+My research interests span **graph neural networks**, **computational biology**, **systems biology**, **drug discovery**, and **autism spectrum disorder (ASD) genomics**. A central focus of my current work is applying GNNs to predict novel candidate genes for ASD by integrating multi-modal molecular data. I have published in venues including *npj Systems Biology and Applications*, *The Journal of Physical Chemistry B*, and *ICML*.
 
 Outside of research, I enjoy spinning, hiking, hitting the gym, and analog photography. I also play the cello and love going to both live gigs and classical music concerts.
