@@ -1,200 +1,151 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sebestyén Kamp",
+    "label": "Biomedical AI Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sebestyen.kamp@ed.ac.uk",
+    "url": "https://essharom.github.io/",
+    "summary": "PhD candidate in Biomedical AI at the University of Edinburgh, researching graph neural networks for biomedical informatics. Head of Research at Garandor. Former Data Team Lead at Turbine.AI.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Edinburgh",
+      "countryCode": "UK",
+      "region": "Scotland"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "sebestyenkamp",
+        "url": "https://linkedin.com/in/sebestyenkamp"
+      },
+      {
+        "network": "GitHub",
+        "username": "essharom",
+        "url": "https://github.com/essharom"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Garandor",
+      "position": "Head of Research",
+      "url": "https://garandor.com/",
+      "startDate": "2025-09-01",
+      "summary": "Directing R&D of invisible watermarking algorithms to authenticate digital content and provenance research. Building and mentoring a multidisciplinary team. Leading technical partnerships aligned with the EU AI Act.",
+      "highlights": ["Digital watermarking", "AI regulation"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Turbine.AI",
+      "position": "Data Team Lead",
+      "url": "https://turbine.ai/",
+      "startDate": "2018-06-01",
+      "endDate": "2021-08-01",
+      "summary": "Managed a team of data scientists, bioinformaticians, and chemoinformaticians for processing biological data and developing machine learning tools. Led drug discovery projects in collaboration with pharmaceutical partners including Bayer.",
+      "highlights": ["Drug discovery", "Team leadership", "ML for biology"]
+    },
+    {
+      "name": "Turbine.AI",
+      "position": "Data Scientist",
+      "url": "https://turbine.ai/",
+      "startDate": "2017-06-01",
+      "endDate": "2018-06-01",
+      "summary": "Designed internal RNA-Seq analysis workflows. Developed interactive analytic and visualisation tools in R (Shiny) and Python (Dash).",
+      "highlights": ["RNA-Seq analysis", "Data visualization"]
+    },
+    {
+      "name": "Turbine.AI",
+      "position": "Computational Biologist",
+      "url": "https://turbine.ai/",
+      "startDate": "2016-08-01",
+      "endDate": "2017-06-01",
+      "summary": "Integrated compound data from public and proprietary databases. Developed custom workflows for transcriptomic and genomic data processing.",
+      "highlights": ["Compound databases", "Bioinformatics pipelines"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Edinburgh",
+      "location": "Edinburgh, UK",
+      "url": "https://www.ed.ac.uk/",
+      "area": "Biomedical Artificial Intelligence",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "startDate": "2021-09-01",
+      "courses": ["Graph Neural Networks for Biomedical Informatics"]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "institution": "Pázmány Péter Catholic University & Semmelweis University",
+      "location": "Budapest, Hungary",
+      "area": "Info-Bionics Engineering",
+      "studyType": "MSc",
+      "startDate": "2015-09-01",
+      "endDate": "2018-06-01"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "Pázmány Péter Catholic University & Semmelweis University",
+      "location": "Budapest, Hungary",
+      "area": "Molecular Bionics Engineering",
+      "studyType": "BSc",
+      "startDate": "2011-09-01",
+      "endDate": "2015-06-01"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "GNN-Suite: a Graph Neural Network Benchmarking Framework for Biomedical Informatics",
+      "publisher": "arXiv",
+      "releaseDate": "2025-05-01",
+      "url": "https://arxiv.org/abs/2505.10711",
+      "summary": "A benchmarking framework for evaluating graph neural networks on biomedical informatics tasks."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Network-driven cancer cell avatars for combination discovery and biomarker identification for DNA damage response inhibitors",
+      "publisher": "npj Systems Biology and Applications",
+      "releaseDate": "2024-01-01",
+      "url": "https://doi.org/10.1038/s41540-024-00394-w",
+      "summary": "Using network-driven cancer cell avatars for drug combination discovery and biomarker identification."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Machine Learning & AI",
+      "level": "Advanced",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["Graph Neural Networks", "PyTorch", "PyG", "DGL", "scikit-learn", "Deep Learning"]
+    },
+    {
+      "name": "Bioinformatics",
+      "level": "Advanced",
+      "icon": "fa-solid fa-dna",
+      "keywords": ["RNA-Seq", "Genomics", "Transcriptomics", "Bioconductor", "Network Biology"]
+    },
+    {
+      "name": "Data Science",
+      "level": "Advanced",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": ["Python", "R", "SQL", "Databricks", "Data Visualization"]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Hungarian",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "C2 (Proficient)",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "B2 (Upper Intermediate)",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Computational Biology",
+      "icon": "fa-solid fa-dna",
+      "keywords": ["Graph Neural Networks", "Systems Biology", "Drug Discovery", "Cancer Biology", "Network Biology"]
     }
   ]
 }

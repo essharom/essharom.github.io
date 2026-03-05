@@ -2,96 +2,97 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Sebestyén Kamp
+    - name: Location
+      value: Edinburgh, UK
     - name: Languages
-      value: English, German
+      value: Hungarian (native), English (C2), German (B2)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Biomedical Artificial Intelligence
+      institution: University of Edinburgh, Edinburgh, UK
+      year: 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "CDT in Biomedical AI (Joint MScR and PhD)"
+        - "PhD project: Graph Neural Networks for Biomedical Informatics"
+        - "Supervisors: G. Stracquadanio and I. Simpson"
+        - "MScR Class of Award: With Distinction"
+    - title: MSc in Info-Bionics Engineering
+      institution: Pázmány Péter Catholic University & Semmelweis University, Budapest, Hungary
+      year: 2015 - 2018
       description:
-        - Description 1.
-        - Description 2.
+        - "Thesis: Quantifying differential gene expression in cancer cells using experimental data from public databases"
+    - title: Erasmus+ Exchange in Bioinformatics
+      institution: Ludwig-Maximilians University & Technical University of Munich, Munich, Germany
+      year: 2015 - 2016
+    - title: BSc in Molecular Bionics Engineering
+      institution: Pázmány Péter Catholic University & Semmelweis University, Budapest, Hungary
+      year: 2011 - 2015
+      description:
+        - "Thesis: Microfluidic cell- and particle separation with focused light beam"
+        - "First Class Degree"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Head of Research
+      institution: Garandor, Edinburgh, UK
+      year: 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Directing R&D of invisible watermarking algorithms to authenticate digital content
+        - Building and mentoring a multidisciplinary team
+        - Leading technical partnerships aligned with the EU AI Act
+    - title: Data Team Lead
+      institution: Turbine.AI, Budapest, Hungary
+      year: 2018 - 2021
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Managing and training a team of data scientists, bioinformaticians, and chemoinformaticians
+        - Responsible for drug discovery projects in collaboration with pharmaceutical industry partners (e.g. Bayer)
+    - title: Data Scientist
+      institution: Turbine.AI, Budapest, Hungary
+      year: 2017 - 2018
       description:
+        - Designed an internal RNA-Seq analysis workflow with Salmon and R (DESeq2)
+        - Developed interactive analytic and visualisation tools in R (Shiny) and Python (Dash)
+    - title: Computational Biologist
+      institution: Turbine.AI, Budapest, Hungary
+      year: 2016 - 2017
+      description:
+        - Integrated compound data from public and proprietary databases
+        - Developed custom workflows to feed transcriptomic and genomic data to the AI-guided cell simulation
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Guest Researcher
+      institution: Institute of Bioinformatics and Systems Biology, Helmholtz Zentrum München, Munich, Germany
+      year: 2015 - 2016
+      description:
+        - "Quantification of multiple NGS expression data sets"
+        - Evaluated methods for RNA-seq mapping and quantification
+    - title: Junior Researcher
+      institution: Institute of Biophysics, BRC, Hungarian Academy of Sciences, Szeged, Hungary
+      year: 2014 - 2015
+      description:
+        - Created microfluidic MEMS devices for cell separation using laser cutting and microfabrication
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming Languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - R, Python, MATLAB, C++, SQL, Bash, HTML/CSS, React.js, LaTeX
+    - title: Tools & Platforms
       items:
-        - Description 1.
-        - Description 2.
+        - Docker, Databricks, GitHub Actions, Kubernetes, MongoDB, Nextflow, mlflow
+    - title: Libraries & Frameworks
+      items:
+        - PyTorch, PyG, DGL, scikit-learn, pandas, NumPy, Bioconductor (DESeq2, edgeR, biomaRt), tidyverse, Shiny, Dash
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Spinning, hiking, gym, analog photography
+    - Cello, live gigs, classical music concerts

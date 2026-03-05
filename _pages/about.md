@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: Biomedical AI Researcher #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Biomedical AI Researcher | <a href='https://www.ed.ac.uk/'>University of Edinburgh</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Edinburgh, UK</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in Biomedical Artificial Intelligence at the [University of Edinburgh](https://www.ed.ac.uk/), working with [Giovanni Stracquadanio](https://www.stracquadaniolab.org/) and [Ianthe Simpson](https://homepages.inf.ed.ac.uk/s1045108/) on graph neural networks for biomedical informatics. I also serve as Head of Research at [Garandor](https://garandor.com/), where I lead R&D on invisible watermarking algorithms for digital content authentication.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before Edinburgh, I spent five years at [Turbine.AI](https://turbine.ai/) in Budapest, where I progressed from Computational Biologist to Data Team Lead. There I managed a team of data scientists and bioinformaticians, working on AI-driven drug discovery in collaboration with pharmaceutical partners including Bayer.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold an MScR (with Distinction) from the University of Edinburgh and a joint MSc in Info-Bionics Engineering from Pázmány Péter Catholic University and Semmelweis University, with an Erasmus exchange at LMU/TUM Munich in Bioinformatics.
+
+My research interests span **graph neural networks**, **computational biology**, **systems biology**, and **drug discovery**. I have published in venues including *npj Systems Biology and Applications*, *The Journal of Physical Chemistry B*, and *ICML*.
+
+Outside of research, I enjoy spinning, hiking, hitting the gym, and analog photography. I also play the cello and love going to both live gigs and classical music concerts.
