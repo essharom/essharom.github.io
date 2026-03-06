@@ -22,6 +22,6 @@ Before Edinburgh, I spent five years at [Turbine.AI](https://turbine.ai/) in Bud
 
 I hold an MScR (with Distinction) from the University of Edinburgh and a joint MSc in Info-Bionics Engineering from Pázmány Péter Catholic University and Semmelweis University, with an Erasmus exchange at LMU/TUM Munich in Bioinformatics.
 
-My research interests span **graph neural networks**, **computational biology**, **systems biology**, **drug discovery**, and **autism spectrum disorder (ASD) genomics**. A central focus of my current work is applying GNNs to predict novel candidate genes for ASD by integrating multi-modal molecular data. I have published in venues including *npj Systems Biology and Applications*, *The Journal of Physical Chemistry B*, and *ICML*.
+My research interests span **graph neural networks**, **computational biology**, **systems biology**, **drug discovery**, and **autism spectrum disorder (ASD) genomics**. A central focus of my current work is applying GNNs to predict novel candidate genes for ASD by integrating multi-modal molecular data. I have published in venues including *ICML*, *npj Systems Biology and Applications*, and *The Journal of Physical Chemistry B*, and have co-organised hands-on tutorials at ISMB 2024 and ECCB 2026.
 
 Outside of research, I enjoy spinning, hiking, hitting the gym, and analog photography. I also play the cello and love going to both live gigs and classical music concerts.
