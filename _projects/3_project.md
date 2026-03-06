@@ -2,6 +2,7 @@
 layout: page
 title: Cancer Cell Avatars
 description: Network-driven cancer cell avatars for drug combination discovery and biomarker identification.
+img: assets/img/project_cancer_avatars.svg
 importance: 3
 category: industry
 ---

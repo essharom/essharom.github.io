@@ -2,6 +2,7 @@
 layout: page
 title: GNN-Suite
 description: A benchmarking framework for graph neural networks in biomedical informatics.
+img: assets/img/project_gnn_suite.svg
 importance: 1
 category: research
 ---

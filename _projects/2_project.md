@@ -2,6 +2,7 @@
 layout: page
 title: Immune-aware Vaccine Design
 description: Generating immune-aware SARS-CoV-2 spike proteins for universal vaccine design.
+img: assets/img/project_vaccine.svg
 importance: 2
 category: research
 ---

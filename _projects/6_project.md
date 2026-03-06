@@ -2,6 +2,7 @@
 layout: page
 title: GNNs for ASD Gene Discovery
 description: Applying graph neural networks to predict novel candidate genes for Autism Spectrum Disorder.
+img: assets/img/project_asd.svg
 importance: 1
 category: research
 ---

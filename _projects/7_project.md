@@ -2,11 +2,12 @@
 layout: page
 title: "ECCB 2026: Multi-omics & Knowledge Graphs Tutorial"
 description: Full-day tutorial on knowledge graphs and LLM-augmented analysis for gene-disease discovery.
+img: assets/img/project_eccb.svg
 importance: 2
 category: research
 ---
 
-A full-day tutorial at **ECCB 2026** in Geneva, co-organised with I. Simpson, B. Ryan, C. Lee, and H. Issa.
+A full-day tutorial at **ECCB 2026** in Geneva, co-organised with I. Simpson, B. Ryan, and C. Lee.
 
 This tutorial provides a practical, end-to-end introduction to developing and analysing biomedical knowledge graphs augmented with multi-omic molecular profiles and LLMs. Participants work hands-on with real-world molecular and clinical data in the context of human disease, building custom knowledge graphs, learning multi-omic feature representations, and applying LLM-based workflows for querying and reasoning over these graphs.
 

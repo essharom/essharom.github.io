@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined **Garandor** as Head of Research, leading R&D on invisible watermarking and digital content authentication.
+Joined [Garandor](https://garandor.com/) as Head of Research, leading R&D on invisible watermarking and digital content authentication.

@@ -2,6 +2,7 @@
 layout: page
 title: Translocatome
 description: Role of translocating proteins in epithelial-mesenchymal transition.
+img: assets/img/project_translocatome.svg
 importance: 4
 category: research
 ---

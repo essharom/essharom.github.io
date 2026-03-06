@@ -2,6 +2,7 @@
 layout: page
 title: Colon Cancer Signaling Networks
 description: Modular reorganization of signaling networks during colon cancer development.
+img: assets/img/project_colon.svg
 importance: 5
 category: research
 ---

@@ -2,6 +2,7 @@
 layout: page
 title: "ISMB 2024: Multi-Modal Biomedical Networks Tutorial"
 description: Full-day tutorial on modelling multi-modal biomedical data using networks and GNNs.
+img: assets/img/project_ismb.svg
 importance: 3
 category: research
 ---
