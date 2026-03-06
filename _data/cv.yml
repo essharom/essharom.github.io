@@ -78,6 +78,22 @@
       description:
         - Created microfluidic MEMS devices for cell separation using laser cutting and microfabrication
 
+- title: Teaching & Tutorials
+  type: time_table
+  contents:
+    - title: "Tutorial: From multi-omics to gene-disease discovery: knowledge graphs and LLM-augmented analysis"
+      institution: ECCB 2026, Geneva, Switzerland
+      year: 2026
+      description:
+        - "Co-organised with I. Simpson, B. Ryan, and C. Lee"
+        - "Full-day hands-on tutorial on biomedical knowledge graphs, multi-omic feature learning, and LLM-augmented analysis"
+    - title: "Tutorial: Modelling Multi-Modal Biomedical Data Using Networks"
+      institution: ISMB 2024, Montreal, Canada
+      year: 2024
+      description:
+        - "Co-presented with I. Simpson, B. Ryan, C. Lee, and H. Issa"
+        - "Full-day hands-on tutorial on network construction, multi-modal data integration, and graph neural networks"
+
 - title: Skills
   type: nested_list
   contents:
